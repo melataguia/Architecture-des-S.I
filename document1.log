@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.12)  31 DEC 2022 14:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.12)  2 JAN 2023 00:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -119,22 +119,22 @@ File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 ) (document1.aux)
 \openout1 = `document1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Info: Redefining \degres on input line 8.
-LaTeX Info: Redefining \up on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Info: Redefining \degres on input line 14.
+LaTeX Info: Redefining \up on input line 14.
 
 (C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -194,25 +194,47 @@ G,.JBIG2,.JB2,.eps]
 (C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) [1
+))
+<Capture 1.png, id=1, 607.67026pt x 251.7405pt>
+File: Capture 1.png Graphic file (type png)
+<use Capture 1.png>
+Package pdftex.def Info: Capture 1.png  used on input line 36.
+(pdftex.def)             Requested size: 780.0pt x 323.15245pt.
+
+Overfull \hbox (407.62482pt too wide) in paragraph at lines 36--37
+[][] 
+ []
+
+[1
 
 {C:/Users/Digit/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-[2] [3] (document1.aux) ) 
+<Capture2.png, id=9, 561.297pt x 234.8775pt>
+File: Capture2.png Graphic file (type png)
+<use Capture2.png>
+Package pdftex.def Info: Capture2.png  used on input line 50.
+(pdftex.def)             Requested size: 780.0pt x 326.41785pt.
+
+Overfull \hbox (407.62482pt too wide) in paragraph at lines 50--51
+[][] 
+ []
+
+[2 <./Capture 1.png>] [3 <./Capture2.png>] (document1.bbl [4]) [5]
+(document1.aux) ) 
 Here is how much of TeX's memory you used:
- 3899 strings out of 475385
- 66986 string characters out of 2776906
- 422482 words of memory out of 3000000
- 25255 multiletter control sequences out of 15000+600000
+ 3927 strings out of 475385
+ 67484 string characters out of 2776906
+ 420486 words of memory out of 3000000
+ 25278 multiletter control sequences out of 15000+600000
  473409 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,67p,417b,426s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Digit\AppData\Local\MiKTeX\fonts/pk/ljfour/
-jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Digit\AppData\Local\MiKTeX\fonts/pk/l
-jfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Digit\AppData\Local\MiKTeX\font
-s/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk>
-Output written on document1.pdf (3 pages, 47553 bytes).
+ 60i,6n,67p,495b,426s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Digit\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\ecbx1440.pk> <C:\Users\Digit\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecrm1200.pk> <C:\Users\Digit\AppData\Local\MiKTeX\fonts/pk/ljf
+our/jknappen/ec/dpi600\ecbx1728.pk>
+Output written on document1.pdf (5 pages, 360173 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
+ 159 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
