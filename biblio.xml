@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<bibliotheque>
+	<inproceedings id="01">
+		<data>
+			<titre>Deep neural networks for youtube recommendations</titre>
+			<auteurs>
+				<auteur>Covington, Paul and Adams, Jay and Sargin, Emre</auteur>
+			</auteurs>
+			
+		</data>
+		<pages>191-198</pages>
+		<edition>1ère édition</edition>
+		<parution>05/04/2013</parution>
+	</inproceedings>
+    <inproceedings id="02">
+        <data>
+			<titre>Analyse exploratoire  de l’influence des algorithmes de recommandation sur la formation des opinions des jeunes bruxellois</titre>
+			<auteurs>
+				<auteur>Wiard, Victor and Mercenier, Heidi and Dufrasne, Marie and Claes, Arnaud and Philippette, Thibault</auteur>
+			</auteurs>
+			
+		</data>
+		<parution>2019</parution>
+    </inproceedings>
+    <inproceedings id="03">
+        <data>
+			<titre>Etude des systèmes de recommandations et mise en pratique des algorithmes</titre>
+			<auteurs>
+				<auteur>Bastin, Jérémy</auteur>
+			</auteurs>
+			
+		</data>
+        <url>http://hdl.handle.net/2268.2/11045</url>
+		
+		<parution>2021</parution>
+    </inproceedings>
+    <article id="01">
+        <data>
+			<titre>Les algorithmes de recommandation musicale et l’autonomie de l’auditeur</titre>
+			<auteurs>
+				<auteur>Beuscart, Jean-Samuel and Coavoux, Samuel and Maillard, Sisley</auteur>
+			</auteurs>
+			
+		</data>
+        <journal>Réseaux</journal>
+		<numero>1</numero>
+        <pages>213</pages>
+		<parution>2019</parution>
+    </article id="02">
+    <article>
+         <data>
+			<titre>Le cadran de la visibilité de la sphere médiatique et politique sur YouTube</titre>
+			<auteurs>
+				<auteur>Benbouzid, Bilel and Gauthier, Emma and Ramaciotti, Pedro and Roudier, Bertrand and Venturini, Tommaso</auteur>
+			</auteurs>
+			
+		</data>
+		<parution>2020</parution>
+    </article 000000id="03">
+    <article>
+         <data>
+			<titre>La portée explicative des algorithmes dans les médias.</titre>
+			<auteurs>
+				<auteur>McKelvey, Fenwck and Dandurand, Guillaume</auteur>
+			</auteurs>
+			
+		</data>
+		<parution>2022</parution>
+    </article id="04">
+     <article>
+         <data>
+			<titre>YouTube, the great radicalizer.</titre>
+			<auteurs>
+				<auteur>Tufekci, Zeynep</auteur>
+			</auteurs>
+			
+		</data>
+		<journal>The New York Times</journal>
+		<numero>3</numero>
+        <pages>10</pages>
+		<parution>2018</parution>
+    </article>
