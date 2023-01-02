@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.12)  2 JAN 2023 00:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.12)  2 JAN 2023 16:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -111,130 +111,202 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ) (C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
+(C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen152
+\captionmargin=\dimen153
+\caption@leftmargin=\dimen154
+\caption@rightmargin=\dimen155
+\caption@width=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
+Package caption Info: Standard document class detected.
+Package caption Info: french babel package is loaded.
+)
+\c@caption@flags=\count268
+\c@continuedfloat=\count269
+)
 (C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count268
+\l__color_backend_stack_int=\count270
 \l__pdf_internal_box=\box51
 ) (document1.aux)
 \openout1 = `document1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Info: Redefining \degres on input line 14.
-LaTeX Info: Redefining \up on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Info: Redefining \degres on input line 15.
+LaTeX Info: Redefining \up on input line 15.
 
 (C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count269
-\scratchdimen=\dimen152
+\scratchcounter=\count271
+\scratchdimen=\dimen160
 \scratchbox=\box52
-\nofMPsegments=\count270
-\nofMParguments=\count271
+\nofMPsegments=\count272
+\nofMParguments=\count273
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count272
-\MPscratchDim=\dimen153
-\MPnumerator=\count273
-\makeMPintoPDFobject=\count274
+\MPscratchCnt=\count274
+\MPscratchDim=\dimen161
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
 \everyMPtoPDFconversion=\toks21
 )
 (C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-
-(C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-))
-(C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-(C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-(C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))
-(C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
-.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
- (C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (C:\Users\Digit\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-<Capture 1.png, id=1, 607.67026pt x 251.7405pt>
-File: Capture 1.png Graphic file (type png)
-<use Capture 1.png>
-Package pdftex.def Info: Capture 1.png  used on input line 36.
-(pdftex.def)             Requested size: 780.0pt x 323.15245pt.
-
-Overfull \hbox (407.62482pt too wide) in paragraph at lines 36--37
-[][] 
- []
-
-[1
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ [1
 
 {C:/Users/Digit/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<Capture2.png, id=9, 561.297pt x 234.8775pt>
-File: Capture2.png Graphic file (type png)
-<use Capture2.png>
-Package pdftex.def Info: Capture2.png  used on input line 50.
-(pdftex.def)             Requested size: 780.0pt x 326.41785pt.
+<Capture 9.png, id=7, 1075.01625pt x 502.2765pt>
+File: Capture 9.png Graphic file (type png)
+<use Capture 9.png>
+Package pdftex.def Info: Capture 9.png  used on input line 29.
+(pdftex.def)             Requested size: 429.00238pt x 200.43953pt.
 
-Overfull \hbox (407.62482pt too wide) in paragraph at lines 50--51
+
+Package caption Warning: \captionsetup{type*=...} or \captionof
+(caption)                outside box or environment on input line 30.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (56.6272pt too wide) in paragraph at lines 29--30
 [][] 
  []
 
-[2 <./Capture 1.png>] [3 <./Capture2.png>] (document1.bbl [4]) [5]
+<Capture 3.png, id=9, 410.7345pt x 248.72925pt>
+File: Capture 3.png Graphic file (type png)
+<use Capture 3.png>
+Package pdftex.def Info: Capture 3.png  used on input line 37.
+(pdftex.def)             Requested size: 390.0pt x 236.18138pt.
+[2 <./Capture 9.png>]
+<Capture 1.png, id=15, 607.67026pt x 251.7405pt>
+File: Capture 1.png Graphic file (type png)
+<use Capture 1.png>
+Package pdftex.def Info: Capture 1.png  used on input line 46.
+(pdftex.def)             Requested size: 429.00238pt x 177.72675pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 46--47
+[][] 
+ []
+
+[3 <./Capture 3.png>]
+<Capture 4.png, id=20, 476.982pt x 217.41225pt>
+File: Capture 4.png Graphic file (type png)
+<use Capture 4.png>
+Package pdftex.def Info: Capture 4.png  used on input line 56.
+(pdftex.def)             Requested size: 390.0pt x 177.7683pt.
+ [4 <./Capture 1.png>]
+<Capture2.png, id=25, 561.297pt x 234.8775pt>
+File: Capture2.png Graphic file (type png)
+<use Capture2.png>
+Package pdftex.def Info: Capture2.png  used on input line 65.
+(pdftex.def)             Requested size: 390.0pt x 163.19817pt.
+
+Underfull \hbox (badness 1067) in paragraph at lines 66--66
+[]\T1/cmr/m/sc/12 Figure 5 \T1/cmr/m/n/12 ^^U |Un sys-tème de re-com-man-da-tio
+n col-la-bo-ra-tif (adapté de
+ []
+
+[5 <./Capture 4.png> <./Capture2.png>] [6]
+<Capture 5.png, id=35, 169.23225pt x 60.82726pt>
+File: Capture 5.png Graphic file (type png)
+<use Capture 5.png>
+Package pdftex.def Info: Capture 5.png  used on input line 104.
+(pdftex.def)             Requested size: 312.00119pt x 112.1509pt.
+<Capture 6.png, id=36, 268.00125pt x 59.0205pt>
+File: Capture 6.png Graphic file (type png)
+<use Capture 6.png>
+Package pdftex.def Info: Capture 6.png  used on input line 107.
+(pdftex.def)             Requested size: 390.0pt x 85.88728pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+[]\T1/cmr/m/n/12 Il est éga-le-ment pos-sible de mul-ti-plier la note par le de
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+\T1/cmr/m/n/12 gré de si-mi-la-rité entre les deux uti-li-sa-teurs afin de don-
+ner
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+\T1/cmr/m/n/12 plus de poids aux notes d'uti-li-sa-teurs fort si-mi-laires à u 
+:
+ []
+
+[7 <./Capture 5.png>]
+<Capture 7.png, id=42, 329.43076pt x 60.82726pt>
+File: Capture 7.png Graphic file (type png)
+<use Capture 7.png>
+Package pdftex.def Info: Capture 7.png  used on input line 110.
+(pdftex.def)             Requested size: 390.0pt x 72.01591pt.
+
+Underfull \hbox (badness 3895) in paragraph at lines 109--111
+[]\T1/cmr/m/n/12 Enfin, on peut éga-le-ment prendre en compte les notes moyenne
+s
+ []
+
+
+Underfull \hbox (badness 4048) in paragraph at lines 109--111
+\T1/cmr/m/n/12 de l'uti-li-sa-teur u dans le cal-cul étant donné que les uti-li
+-sa-teurs
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 109--111
+\T1/cmr/m/n/12 peuvent avoir ten-dance à vo-ter dif-fé-rem-ment les uns des aut
+res :
+ []
+
+[8 <./Capture 6.png> <./Capture 7.png>] [9] [10] [11] (document1.bbl) [12]
 (document1.aux) ) 
 Here is how much of TeX's memory you used:
- 3927 strings out of 475385
- 67484 string characters out of 2776906
- 420486 words of memory out of 3000000
- 25278 multiletter control sequences out of 15000+600000
- 473409 words of font info for 34 fonts, out of 8000000 for 9000
+ 4716 strings out of 475385
+ 82148 string characters out of 2776906
+ 437870 words of memory out of 3000000
+ 26085 multiletter control sequences out of 15000+600000
+ 474768 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,67p,495b,426s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,6n,63p,951b,426s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Digit\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
-/ec/dpi600\ecbx1440.pk> <C:\Users\Digit\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
-nappen/ec/dpi600\ecrm1200.pk> <C:\Users\Digit\AppData\Local\MiKTeX\fonts/pk/ljf
-our/jknappen/ec/dpi600\ecbx1728.pk>
-Output written on document1.pdf (5 pages, 360173 bytes).
+/ec/dpi600\ecti1200.pk> <C:\Users\Digit\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecbx1440.pk> <C:\Users\Digit\AppData\Local\MiKTeX\fonts/pk/ljf
+our/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\Digit\AppData\Local\MiKTeX\fonts/
+pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Digit\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk>
+Output written on document1.pdf (12 pages, 1273004 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
+ 279 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

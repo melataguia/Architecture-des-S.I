@@ -1,10 +1,47 @@
 \begin{thebibliography}{1}
 
+\bibitem{Bastin2021}
+Jérémy Bastin.
+\newblock Etude des systèmes de recommandations et mise en pratique des
+  algorithmes.
+\newblock In {\em Master en sciences de gestion}, 2021.
+
 \bibitem{benbouzid2020cadran}
 Bilel Benbouzid, Emma Gauthier, Pedro Ramaciotti, Bertrand Roudier, and Tommaso
   Venturini.
 \newblock Le cadran de la visibilit{\'e} de la sphere m{\'e}diatique et
   politique sur youtube.
 \newblock 2020.
+
+\bibitem{beuscart2019algorithmes}
+Jean-Samuel Beuscart, Samuel Coavoux, and Sisley Maillard.
+\newblock Les algorithmes de recommandation musicale et l’autonomie de
+  l’auditeur.
+\newblock {\em R{\'e}seaux}, 213(1):17--47, 2019.
+
+\bibitem{covington2016deep}
+Paul Covington, Jay Adams, and Emre Sargin.
+\newblock Deep neural networks for youtube recommendations.
+\newblock In {\em Proceedings of the 10th ACM conference on recommender
+  systems}, pages 191--198, 2016.
+
+\bibitem{mckelvey2022portee}
+Fenwck McKelvey and Guillaume Dandurand.
+\newblock La port{\'e}e explicative des algorithmes dans les m{\'e}dias.
+\newblock 2022.
+
+\bibitem{tufekci2018youtube}
+Zeynep Tufekci.
+\newblock Youtube, the great radicalizer.
+\newblock {\em The New York Times}, 10(3):2018, 2018.
+
+\bibitem{wiard2019qui}
+Victor Wiard, Heidi Mercenier, Marie Dufrasne, Arnaud Claes, and Thibault
+  Philippette.
+\newblock "{\guillemotleft}ce qui est filtr{\'e}, ce qu’on me
+  propose{\guillemotright}: Analyse exploratoire de l’influence des
+  algorithmes de recommandation sur la formation des opinions des jeunes
+  bruxellois.
+\newblock In {\em Digital Society Conference}, 2019.
 
 \end{thebibliography}
