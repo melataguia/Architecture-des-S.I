@@ -1,0 +1,61 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="bibliotheque">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="inproceedings" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="data">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="titre"/>
+                    <xs:element name="auteurs">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="auteur"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element type="xs:string" name="pages" minOccurs="0"/>
+              <xs:element type="xs:string" name="edition" minOccurs="0"/>
+              <xs:element type="xs:anyURI" name="url" minOccurs="0"/>
+              <xs:element type="xs:string" name="parution"/>
+            </xs:sequence>
+            <xs:attribute type="xs:byte" name="id" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="article" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType mixed="true">
+            <xs:choice maxOccurs="unbounded" minOccurs="0">
+              <xs:element name="data">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="titre"/>
+                    <xs:element name="auteurs">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="auteur"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element type="xs:string" name="booktitle" minOccurs="0"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element type="xs:string" name="journal"/>
+              <xs:element type="xs:byte" name="numero"/>
+              <xs:element type="xs:string" name="pages"/>
+              <xs:element type="xs:short" name="parution"/>
+              <xs:element type="xs:string" name="organisation" minOccurs="0"/>
+              <xs:element type="xs:string" name="school" minOccurs="0"/>
+            </xs:choice>
+            <xs:attribut type="xs:byte" name="id" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

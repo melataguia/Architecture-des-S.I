@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<bibliotheque>
+	<inproceedings id="01">
+		<data>
+			<titre>Deep neural networks for youtube recommendations</titre>
+			<auteurs>
+				<auteur>Covington, Paul and Adams, Jay and Sagin, Emre</auteur>
+			</auteurs>
+			
+		</data>
+		<pages>191-198</pages>
+		<edition>1ère édition</edition>
+		<parution>05/04/2013</parution>
+	</inproceedings>
+    <inproceedings id="02">
+        <data>
+			<titre>Analyse exploratoire  de l'influence des algorithmes de recommandation sur la formation des opinions des jeunes bruxellois</titre>
+			<auteurs>
+				<auteur>Wiard, Victor and Mercenier, Heidi and Dufrasne, Marie and Claes, Arnaud and Philippette, Thibault</auteur>
+			</auteurs>
+			
+		</data>
+		<parution>2019</parution>
+    </inproceedings>
+    <inproceedings id="03">
+        <data>
+			<titre>Etude des systèmes de recommandations et mise en pratique des algorithmes</titre>
+			<auteurs>
+				<auteur>Bastin, Jérémy</auteur>
+			</auteurs>
+			
+		</data>
+        <url>http://hdl.handle.net/2268.2/11045</url>
+		
+		<parution>2021</parution>
+    </inproceedings>
+    <article id="01">
+        <data>
+			<titre>Les algorithmes de recommandation musicale et l'autonomie de l'auditeur</titre>
+			<auteurs>
+				<auteur>Beuscart, Jean-Samuel and Coavoux, Samuel and Maillard, Sisley</auteur>
+			</auteurs>
+			
+		</data>
+        <journal>Réseaux</journal>
+		<numero>1</numero>
+        <pages>213</pages>
+		<parution>2019</parution>
+    </article >
+
+    <article id="02">
+         <data>
+			<titre>Le cadran de la visibilité de la sphere médiatique et politique sur YouTube</titre>
+			<auteurs>
+				<auteur>Benbouzid, Bilel and Gauthier, Emma and Ramaciotti, Pedro and Roudier, Bertrand and Venturini, Tommaso</auteur>
+			</auteurs>
+			
+		</data>
+		<parution>2020</parution>
+    </article> 
+    <article id="03">
+         <data>
+			<titre>La portée explicative des algorithmes dans les médias.</titre>
+			<auteurs>
+				<auteur>McKelvey, Fenwck and Dandurand, Guillaume</auteur>
+			</auteurs>
+			
+		</data>
+		<parution>2022</parution>
+    </article >
+    <article  id="05">
+         <data>
+			<titre>YouTube, the great radicalizer.</titre>
+			<auteurs>
+				<auteur>Tufekci, Zeynep</auteur>
+			</auteurs>
+			
+		</data>
+		<journal>The New York Times</journal>
+		<numero>3</numero>
+        <pages>10</pages>
+		<parution>2018</parution>
+    </article>
+     <article  id="06">
+         <data>
+			<titre>La médiation du livre à l'ère du numérique: l'enjeu des algorithmes de recommandation</titre>
+			<auteurs>
+				<auteur>Labbé, Stéphane</auteur>
+			</auteurs>
+			
+		</data>
+		<journal>Documentation et bibliothèques</journal>
+		<numero>1</numero>
+        <pages>15--21</pages>
+		<parution>2015</parution>
+    </article>
+
+     <article  id="07">
+         <data>
+			<titre>Algorithmes: biais, discrimination et équitée}</titre>
+			<auteurs>
+				<auteur>Bertail, Patrice and Bounie, David and Clémençon, Stéphan and Waelbroeck, Patrick</auteur>
+			</auteurs>
+			
+		</data>
+		<parution>2019</parution>
+    </article>
+
+     <article  id="08">
+         <data>
+			<titre>Dispositifs innovants, consommation créative? Netflix ou la recommandation des contenus audiovisuels à l'ère de la prescription algorithmique</titre>
+			<auteurs>
+				<auteur>Delaporte, Chloé</auteur>
+			</auteurs>
+			
+		</data>
+        <pages>28--38</pages>
+		<parution>2018</parution>
+    </article>
+
+    <article  id="09">
+         <data>
+			<titre>Stratégies et algorithmes de prise en charge d'une difficulté de controle des voies aériennes: question 5</titre>
+			<auteurs>
+				<auteur>Langeron, O and Bourgain, J-L and Laccoureye, O and Legras, A and Orliaguet, G</auteur>
+			</auteurs>
+            <booktitle>Annales francaises d'anesthesie et de reanimation</booktitle>
+			
+		</data>
+		<journal>Documentation et bibliothèques</journal>
+		<numero>1</numero>
+        <pages>41--45</pages>
+		<parution>2008</parution>
+        <organisation>Elsevier Masson</organisation>
+    </article>
+
+    <article  id="10">
+         <data>
+			<titre>Le temps des algorithmes</titre>
+			<auteurs>
+				<auteur>Abiteboul, Serge and Dowek, Gilles</auteur>
+			</auteurs>	
+		</data>
+		<parution>2017</parution>
+        <organisation>Le pommier</organisation>
+    </article>
+
+    <article  id="11">
+         <data>
+			<titre>Système hybride d'adaptation dans les systèmes de recommandation</titre>
+			<auteurs>
+				<auteur>Lemdani, Roza</auteur>
+			</auteurs>
+            
+			
+		</data>
+		<parution>2016</parution>
+        <school>{Université Paris-Saclay</school>
+    </article>
+
+     <article  id="12">
+         <data>
+			<titre>Utilité et perception de la diversité dans les systèmes de recommandation</titre>
+			<auteurs>
+				<auteur>Castagnos, Sylvain and Brun, Armelle and Boyer, Anne</auteur>
+			</auteurs>
+            <booktitle>CORIA 2013-10ème COnférence en Recherche d'Information et Applications</booktitle>
+            
+			
+		</data>
+		<parution>2013</parution>
+    </article>
+
+     <article  id="13">
+         <data>
+			<titre>Algorithmes d'apprentissage pour la recommandation</titre>
+			<auteurs>
+				<auteur>Bisson, Valentin</auteur>
+			</auteurs>
+            
+			
+		</data>
+		<parution>2013</parution>
+     
+    </article>
+
+     <article  id="14">
+         <data>
+			<titre>Vers des recommandations plus personnalisées dans les folksonomies</titre>
+			<auteurs>
+				<auteur>Jelassi, Mohamed Nader and Yahia, Sadok Ben and Nguifo, Engelbert Mephu</auteur>
+			</auteurs>
+            <booktitle>IC-25èmes Journées francophones d'Ingénierie des Connaissances</booktitle>
+            
+			
+		</data>
+		<parution>2014</parution>
+        <pages>187--198</pages>
+     
+    </article>
+
+    <article  id="15">
+         <data>
+			<titre>Systèmes de recommandation et algorithmes de bandits: Notebook Ipython</titre>
+			<auteurs>
+				<auteur>Louédec, Jonathan and Chevalier, Max and Garivier, Aurélien and Mothe, Josiane</auteur>
+			</auteurs>
+            
+			
+		</data>
+		<parution>2015</parution>
+ 
+     
+    </article>
+
+        <article  id="16">
+         <data>
+			<titre>L'économie de la découverte musicale à l'ère numérique</titre>
+			<auteurs>
+				<auteur>Maisonneuve, Sophie</auteur>
+			</auteurs>
+
+		</data>
+		<parution>2019</parution>
+        <pages>49--81</pages>
+     
+    </article>
+
+    <article  id="17">
+         <data>
+			<titre>Dans la boite noire des algorithmes</titre>
+			<auteurs>
+				<auteur>Richard, Claire</auteur>
+			</auteurs>
+
+		</data>
+        <numero>3</numero>s
+		<parution>2018</parution>
+        <pages>68--85</pages>
+     
+    </article>
+
+</bibliotheque>
